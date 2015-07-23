@@ -1,0 +1,27 @@
+{
+  "name": "portal",
+  "version": "0.0.1",
+  "description": "Supporting services for the Hacker Fellows portal site.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "sea & pear",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grandcircusco/Portal-Services.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "bugs": {
+    "url": "https://github.com/grandcircusco/Portal-Services/issues"
+  },
+  "homepage": "https://github.com/grandcircusco/Portal-Services#readme"
+}
